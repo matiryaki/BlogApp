@@ -1,0 +1,47 @@
+﻿@using MyEvernote.Entities
+@model EverNoteUser
+@{
+    ViewBag.Title = "Kullanıcı Profili";
+}
+
+<div class="container">
+    <div class="row">
+        <h2>@ViewBag.Title</h2>
+        <hr />
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <img src="~/Images/@Model.ProfilImageFileName" alt=" user" class="img-circle"width="128"height="128"/>
+        </div>
+        <div class="col-md-8">
+            <h3>
+                @(Model.Name + " " + Model.SurName)
+            </h3>
+            <br />
+            <h6>
+                <b>Kullanıcı Adı :</b>
+                @Model.UserName
+            </h6>
+            <h6>
+                <b>E-Mail :</b>
+                @Model.UserName
+            </h6>
+            <h6>
+                <a href="#">Fazlası...</a>
+            </h6>
+        </div>
+        <div class="col-md-2 text-right">
+            <div class="btn-group">
+                <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Ayarlar
+                </button>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="@Url.Action("EditProfile")"><i class="far fa-edit text-danger"></i> Düzenle</a>
+                    <a class="dropdown-item" href="@Url.Action("RemoveProfile")"><i class="fas fa-trash-alt text-danger"></i> &nbsp;&nbsp; Kullanıcı Sil</a>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,14 @@
+C:\Users\Erp-12\Desktop\MyEverNoteSolution\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.dll.config
+C:\Users\Erp-12\Desktop\MyEverNoteSolution\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.dll
+C:\Users\Erp-12\Desktop\MyEverNoteSolution\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.pdb
+C:\Users\Erp-12\Desktop\MyEverNoteSolution\MyEvernote.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Erp-12\Desktop\MyEverNoteSolution\MyEvernote.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Erp-12\Desktop\MyEverNoteSolution\MyEvernote.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Erp-12\Desktop\MyEverNoteSolution\MyEvernote.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Erp-12\Desktop\MyEverNoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.csprojAssemblyReference.cache
+C:\Users\Erp-12\Desktop\MyEverNoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Erp-12\Desktop\MyEverNoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.csproj.CopyComplete
+C:\Users\Erp-12\Desktop\MyEverNoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.dll
+C:\Users\Erp-12\Desktop\MyEverNoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.pdb
+C:\Users\Erp-12\Desktop\MyEverNoteSolution\MyEvernote.Entities\bin\Debug\FakeData.dll
+C:\Users\Erp-12\Desktop\MyEverNoteSolution\MyEvernote.Entities\bin\Debug\FakeData.pdb
