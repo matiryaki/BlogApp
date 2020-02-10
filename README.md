@@ -1,2 +1,2 @@
-# Erp502
-class502
+# BlogApp Projesi
+Asp .Net MVC kullanarak Blog projesi oluşturdum.
